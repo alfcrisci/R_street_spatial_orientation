@@ -11,6 +11,8 @@ ISTITUTO di BIOMETEOROLOGIA IBIMET-CNR Consiglio Nazionale delle Ricerche
 
 ### Giulia Guerri giulia.guerri@stud.unifi.it
 
+![Orientamento strade](Orientamento_strade.png)
+
 
 
 This data was created to perform investigation for PRIN Progetto di ricerca di rilevante interesse nazionale 2015 
