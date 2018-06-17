@@ -1,4 +1,4 @@
-# UNIFI PRIN Street's spatial orientation
+# UNIFI PRIN spatial orientation of streeets
 
 This data was created to perform investigation for PRIN Progetto di ricerca di rilevante interesse nazionale 2015 
 
@@ -8,14 +8,14 @@ Coordinato dal Prof. Roberto Bologna -  DIDA  Dipartimento di Architetttura Univ
 
 ![Area di progetto](Area_PRIN.jpg)
 
-R code to manange streets orientation data obtained by using ShapeOrientation pluginQGIS 
+IN the repository we found the R code to manange streets orientation data obtained by using ShapeOrientation pluginQGIS 
 
 https://plugins.qgis.org/plugins/ShapeOrientation/ 
 
 https://github.com/FFouriauxEveha/ShapeOrientation
 
-This plugin on road network in shape file format calculate the major orientations of a set of polygons and draw a rose diagram of these orientations.
+This plugin works on road network  calculating the major orientations of a set of lines and draw a rose diagram of these orientations.
 
-For UNIFI PRIN this database import in R environment the former road network data provided by Regione Toscana SIT.
+For UNIFI PRIN project a database in R environment was created by using road network data provided by Regione Toscana SIT.
 
 
