@@ -11,7 +11,7 @@ ISTITUTO di BIOMETEOROLOGIA IBIMET-CNR Consiglio Nazionale delle Ricerche
 
 ### Giulia Guerri giulia.guerri@stud.unifi.it
 
-![Orientamento strade](Orientamento_strade.png)
+![Orientamento strade](strade_orientamento.png)
 
 
 
