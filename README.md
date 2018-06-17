@@ -1,6 +1,7 @@
-# UNIFI PRIN DATABASE Spatial orientation of road network
+# UNIFI PRIN DATABASE 
+## Spatial orientation of road network related to investigated area
 
-## Autori
+## Author
 
 ISTITUTO di BIOMETEOROLOGIA IBIMET-CNR Consiglio Nazionale delle Ricerche
 
@@ -15,11 +16,11 @@ ISTITUTO di BIOMETEOROLOGIA IBIMET-CNR Consiglio Nazionale delle Ricerche
 
 
 
-This data was created to perform investigation for PRIN Progetto di ricerca di rilevante interesse nazionale 2015 
+This dataset was created to perform investigation inside the  UNIFI PRIN (Progetto di ricerca di rilevante interesse nazionale ) 2015: 
 
 ### ADAPTIVE DESIGN e INNOVAZIONI TECNOLOGICHE PER LA RIGERNARAZIONE RESILIENTE DEI DISTRETTI URBANI IN REGIME DI CAMBIAMENTO CLIMATICO
 
-Coordinato dal Prof. Roberto Bologna -  DIDA  Dipartimento di Architetttura Università di Firenze
+ Prof. Roberto Bologna -  DIDA  Dipartimento di Architetttura Università di Firenze
 
 ![Area di progetto](Area_PRIN.jpg)
 
@@ -31,6 +32,6 @@ https://github.com/FFouriauxEveha/ShapeOrientation
 
 This plugin works on road network  calculating the major orientations of a set of lines and draw a rose diagram of these orientations.
 
-For UNIFI PRIN project a database in R environment was created by using road network data provided by Regione Toscana SIT.
+For UNIFI PRIN project the database valid for R environment was created by using road network data provided by Regione Toscana SIT.
 
 
