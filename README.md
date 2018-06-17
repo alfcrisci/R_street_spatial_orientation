@@ -1,4 +1,17 @@
-# UNIFI PRIN spatial orientation of streeets
+# UNIFI PRIN DATABASE Spatial orientation of road network
+
+## Autori
+
+ISTITUTO di BIOMETEOROLOGIA IBIMET-CNR Consiglio Nazionale delle Ricerche
+
+   
+### Alfonso Crisci a.crisci@ibimet.cnr.it
+
+### Marco Morabito m.morabito@ibimet.cnr.it
+
+### Giulia Guerri giulia.guerri@stud.unifi.it
+
+
 
 This data was created to perform investigation for PRIN Progetto di ricerca di rilevante interesse nazionale 2015 
 
