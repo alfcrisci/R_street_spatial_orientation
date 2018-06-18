@@ -1,5 +1,7 @@
-# UNIFI PRIN DATABASE 
+# UNIFI PRIN Spatial orientation DataBase
 ## Spatial orientation of road network related to investigated area
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1292156.svg)](https://doi.org/10.5281/zenodo.1292156)
 
 ### Authors
 
