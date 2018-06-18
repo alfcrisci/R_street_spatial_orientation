@@ -3,6 +3,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1292156.svg)](https://doi.org/10.5281/zenodo.1292156)
 
+Crisci, Alfonso, Morabito,Marco, & Guerri, Giulia. (2018, June 18). UNIFI PRIN road network orientation (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.1292156
+
 ### Authors
 
 ISTITUTO di BIOMETEOROLOGIA IBIMET-CNR Consiglio Nazionale delle Ricerche
